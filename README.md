@@ -30,3 +30,5 @@ Created a private GitHub repository and pushed the project code.
 ---
 
 ## Screenshot
+<img width="1920" height="1243" alt="Screenshot 2025-07-31 at 16 11 55" src="https://github.com/user-attachments/assets/0fc912ae-1bea-4992-a327-48555ce0eead" />
+
